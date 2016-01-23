@@ -1,4 +1,4 @@
-FROM erdii/node-0.10-buildtools
+FROM erdii/nodejs-0.10-buildtools
 
 RUN mkdir /wd
 WORKDIR /wd
